@@ -1,0 +1,15 @@
+---
+title: "Share models"
+author: "RL"
+format: html
+editor: visual
+---
+
+## 
+
+This is a Quarto document hosted on github
+
+```{r}
+
+print("hello from R")
+```
