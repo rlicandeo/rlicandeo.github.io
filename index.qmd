@@ -1,15 +1,18 @@
 ---
-title: "Share models"
+title: "Summary data for fitting growth models"
 author: "RL"
 format: html
-editor: visual
+embed-resources: true
 ---
 
-## 
+```{r}
+# x <- 1:10
+# plot(x)
+# png(filename = "test.png")
+# plot(x)
+# dev.off()
+```
 
 This is a Quarto document hosted on github
 
-```{r}
-
-print("hello from R")
-```
+\<img src="C:/Users/Rho/rlicandeo.github.io/test.png" alt="Caption for Image 1"\>
