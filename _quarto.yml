@@ -2,13 +2,16 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "My Main Website"
+  title: "Roberto Licandeo, PhD"
+  favicon: "images/logo_mini.png"
   navbar:
-    left:
+    right:
       - text: "Home"
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - icon: envelope
+        href: mailto:robertolicandeo@gmail.com
 
 
 

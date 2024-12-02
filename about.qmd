@@ -17,9 +17,9 @@ __GitHub:__ <https://github.com/rlicandeo>
 
 
 :::{layout-ncol=1 style="float:right"}
-![](images/Rho_fly_squamich.jpg){width=15%}
+![](images/Rho_fly_squamich.jpg){width=240}
 
-![](images/Rho_steelhead.jpg){width=15%}
+![](images/Rho_steelhead.jpg){width=240}
 :::
 
 

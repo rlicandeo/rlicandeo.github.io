@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Website",
+    "title": "Dr. Roberto Licandeo",
     "section": "",
-    "text": "Welcome to My Website!\nThis is the homepage for https://rlicandeo.github.io/.\nVisit mse_anchovy_sardine Website"
+    "text": "Hello. I’m Roberto Licandeo, an independent consultant. I provide services for fishery data analysis, stock assessment, ecology, management and conservation. If you are interested in any of these services, please feel free to contact me."
+  },
+  {
+    "objectID": "index.html#services",
+    "href": "index.html#services",
+    "title": "Dr. Roberto Licandeo",
+    "section": "Services",
+    "text": "Services\n\nStock assessment\n\n\nMSE\n\n\nR Workshops\n\nCreated with Quarto; Updated 2024-12-01"
   },
   {
     "objectID": "about.html",

@@ -1,10 +1,33 @@
 ---
-title: "Welcome to My Website"
+title: "<span style = 'display:none;'>Dr. Roberto Licandeo</span>"
 ---
 
-# Welcome to My Website!
+<img src = "images/logo.png" style = "width:400px; max-width: 100%; margin-top:15px; margin-bottom: 30px;">
 
-This is the homepage for **https://rlicandeo.github.io/**.
+Hello. I'm Roberto Licandeo, an independent consultant. I provide services for fishery data analysis, stock assessment,
+ecology, management and conservation. If you are interested in any of these services, please feel free to [contact me](mailto:robertolicandeo@gmail.com).
 
-[Visit mse_anchovy_sardine Website](mse_anchovy_sardine/)
+## Services
 
+
+### Stock assessment 
+
+
+
+### MSE
+
+
+
+### R Workshops
+
+
+---
+
+```{r}
+#| include: false
+# Prompt R
+Sys.Date()
+```
+
+
+Created with Quarto; Updated `r as.character(Sys.Date())` 
