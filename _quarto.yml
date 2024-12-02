@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 website:
   title: "My Main Website"
   navbar:
@@ -9,9 +9,6 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
-      - text: "mse_anchovy_sardine"
-        href: mse_anchovy_sardine/index.qmd
-
 
 
 
