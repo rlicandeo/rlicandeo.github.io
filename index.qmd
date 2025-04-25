@@ -1,27 +1,82 @@
+<!-- # --- -->
+<!-- # title: "<span style = 'display:none;'>Dr. Roberto Licandeo</span>" -->
+<!-- # --- -->
+<!-- #  -->
+<!-- # <img src = "images/logo.png" style = "width:400px; max-width: 100%; margin-top:15px; margin-bottom: 30px;"> -->
+<!-- #  -->
+<!-- #  -->
+<!-- # I am a data scientist and quantitative modeler with over 15 years of experience. My work bridges quantitative fisheries science, population dynamics modeling, and decision analysis to support sustainable marine resource management and conservation. -->
+<!-- #  -->
+<!-- # My analytical approach combines statistical rigor with practical applications to address complex ecological challenges. I've collaborated with fisheries authorities from different countries including Chile, Ecuador, Canada, and the USA, conducted workshops on modeling for fisheries recovery, and collaborate extensively with researchers across multiple institutions. -->
+<!-- #  -->
+<!-- # I specialize in management strategy evaluation (MSE), a variety of stock assessment methods for data-poor and data-rich stocks, and addressing time-varying productivity in fisheries. My expertise helps translate complex biological data into effective harvest strategies and management procedures for small pelagics and demersal stocks. -->
+<!-- #  -->
+<!-- # Throughout my career, I've developed and applied modeling frameworks to evaluate alternative management strategies under environmental uncertainty. My research addresses key challenges in fisheries science, including quota setting under changing population parameters, rebuilding depleted stocks, and accounting for climate impacts on marine ecosystems. -->
+<!-- #  -->
+<!-- # With 25+ peer-reviewed publications and extensive experience in R, TMB, Python, AD Model Builder, Bayesian modeling (JAGS/WinBUGS), and various stock assessment frameworks, I develop practical solutions to complex fisheries management problems. I'm passionate about applying rigorous quantitative methods to support sustainable fishing practices and effective conservation in our changing oceans. -->
+<!-- #  -->
+<!-- #  -->
+<!-- #  -->
+<!-- # --- -->
+<!-- #  -->
+<!-- # ```{r} -->
+<!-- # #| include: false -->
+<!-- # # Prompt R -->
+<!-- # Sys.Date() -->
+<!-- # ``` -->
+<!-- #  -->
+<!-- #  -->
+<!-- # Created with Quarto; Updated `r as.character(Sys.Date())`  -->
+
+
+
 ---
-title: "<span style = 'display:none;'>Dr. Roberto Licandeo</span>"
+title: ""
+format:
+  html:
+    css: styles.css
+    page-layout: full
 ---
 
-<img src = "images/logo.png" style = "width:400px; max-width: 100%; margin-top:15px; margin-bottom: 30px;">
+<div style="margin-top: -50px;">
+  <img src="images/logo.png" style="width: 250px; max-width: 100%; margin-top:5px; margin-bottom: 30px; display: block; margin-left: auto; margin-right: auto;">
+</div>
 
-Hello. I'm Roberto Licandeo, an independent consultant. I provide services for fishery data analysis, stock assessment,
-ecology, management and conservation. If you are interested in any of these services, please feel free to [contact me](mailto:robertolicandeo@gmail.com).
+:::::: {.grid}
 
-## Services
+::::: {.g-col-9}
 
+### Contact Information
 
-### Stock assessment 
+Chilliwack, British Columbia, Canada
 
+<i class="bi bi-envelope"></i> [robertolicandeo@gmail.com](mailto:robertolicandeo@gmail.com)  
+<i class="bi bi-globe"></i> [ResearchGate](https://www.researchgate.net/profile/Roberto-Licandeo)  
+<i class="bi bi-fingerprint"></i> [ORCID](https://orcid.org/0000-0003-4593-183X)  
+<i class="bi bi-github"></i> [GitHub](https://github.com/rlicandeo)  
+<i class="bi bi-mortarboard-fill"></i> [Google Scholar](https://scholar.google.com/citations?user=66RSKVsAAAAJ&hl=es&oi=ao)
 
+### About Me
 
-### MSE
+I am a data scientist and quantitative modeler with over 15 years of experience. My work bridges quantitative fisheries science, population dynamics modeling, and decision analysis to support sustainable marine resource management and conservation.
 
+My analytical approach combines statistical rigor with practical applications to address complex ecological challenges. I've collaborated with fisheries authorities from different countries including Chile, Ecuador, Canada, and the USA, conducted workshops on modeling for fisheries recovery, and collaborate extensively with researchers across multiple institutions.
 
+I specialize in management strategy evaluation (MSE), a variety of stock assessment methods for data-poor and data-rich stocks, and addressing time-varying productivity in fisheries. My expertise helps translate complex biological data into effective harvest strategies and management procedures for small pelagics and demersal stocks.
 
-### R Workshops
+Throughout my career, I've developed and applied modeling frameworks to evaluate alternative management strategies under environmental uncertainty. My research addresses key challenges in fisheries science, including quota setting under changing population parameters, rebuilding depleted stocks, and accounting for climate impacts on marine ecosystems.
 
+With 25+ peer-reviewed publications and extensive experience in R, Python, AD Model Builder, Bayesian modeling (JAGS/WinBUGS), and various stock assessment frameworks, I develop practical solutions to complex fisheries management problems. I'm passionate about applying rigorous quantitative methods to support sustainable fishing practices and effective conservation in our changing oceans.
 
----
+:::::
+
+::::: {.g-col-3}
+![](images/Rho_fly_squamich.jpg){.img-fluid .rounded}
+
+![](images/Rho_steelhead.jpg){.img-fluid .rounded .mt-4}
+:::::
+
+::::::
 
 ```{r}
 #| include: false
