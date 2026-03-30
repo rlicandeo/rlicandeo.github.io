@@ -1,0 +1,27 @@
+---
+title: "Projects"
+format:
+  html:
+    css: styles.css
+    page-layout: full
+---
+
+### Apps
+
+::::::: {style="background: #F1EFE8; border: 0.5px solid #D3D1C7; border-radius: 12px; padding: 1rem; max-width: 380px; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem;"}
+::: {style="font-size: 15px; font-weight: 500; color: #2C2C2A;"}
+BC Sockeye Stock Analysis
+:::
+
+::: {style="font-size: 13px; color: #5F5E5A; line-height: 1.5;"}
+Ricker SR curves and marine survival residuals across 24 BC sockeye populations.
+:::
+
+:::: {style="display: flex; align-items: center; justify-content: space-between; margin-top: 4px;"}
+::: {style="display: flex; gap: 5px;"}
+[Python]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #E1F5EE; color: #085041; border: 0.5px solid #5DCAA5;"} [Dash]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #E1F5EE; color: #085041; border: 0.5px solid #5DCAA5;"}
+:::
+
+<a href="https://dash-sockeye.onrender.com/" target="_blank" style="font-size: 12px; font-family: monospace; color: #2C2C2A; text-decoration: none; font-weight: 500;">Launch app →</a>
+::::
+:::::::

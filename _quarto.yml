@@ -12,8 +12,8 @@ website:
         text: Home
       # - href: publications.qmd
       #   text: Publications
-      # - href: projects.qmd
-      #   text: Projects
+      - href: projects.qmd
+        text: Projects
       # - href: cv.qmd
       #   text: CV
     right:
