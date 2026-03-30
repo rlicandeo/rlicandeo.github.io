@@ -70,11 +70,18 @@ With 25+ peer-reviewed publications and extensive experience in R, Python, AD Mo
 
 :::::
 
+
+
+
 ::::: {.g-col-3}
 ![](images/Rho_fly_squamich.jpg){.img-fluid .rounded}
 
 ![](images/Rho_steelhead.jpg){.img-fluid .rounded .mt-4}
 :::::
+
+**My Apps**
+[BC Sockeye Stock Analysis →](https://dash-sockeye.onrender.com/){target="_blank" style="display: inline-block; background: #888780; color: #ffffff; font-family: monospace; font-size: 13px; padding: 8px 16px; border-radius: 6px; text-decoration: none; border: 1px solid #5F5E5A; margin-top: 0.5rem; white-space: nowrap;"}
+
 
 ::::::
 

@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - CNAME
 website:
   title: "Roberto Licandeo, PhD"
   favicon: "images/logo_mini.png"
