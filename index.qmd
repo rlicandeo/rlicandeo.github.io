@@ -38,8 +38,10 @@ format:
     page-layout: full
 ---
 
-<div style="margin-top: -50px;">
-  <img src="images/logo.png" style="width: 250px; max-width: 100%; margin-top:5px; margin-bottom: 30px; display: block; margin-left: auto; margin-right: auto;">
+<div class="hero" style="margin-top: -50px;">
+  <img src="images/logo.png" style="width: 250px; max-width: 100%; margin-top:5px; margin-bottom: 30px;
+   display: block; margin-left: auto; margin-right: auto;
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
 </div>
 
 :::::: {.grid}
@@ -67,6 +69,10 @@ I specialize in management strategy evaluation (MSE), a variety of stock assessm
 Throughout my career, I've developed and applied modeling frameworks to evaluate alternative management strategies under environmental uncertainty. My research addresses key challenges in fisheries science, including quota setting under changing population parameters, rebuilding depleted stocks, and accounting for climate impacts on marine ecosystems.
 
 With 25+ peer-reviewed publications and extensive experience in R, Python, AD Model Builder, Bayesian modeling (JAGS/WinBUGS), and various stock assessment frameworks, I develop practical solutions to complex fisheries management problems. I'm passionate about applying rigorous quantitative methods to support sustainable fishing practices and effective conservation in our changing oceans.
+
+
+![](world_cloud.png){width=50% style="border-radius: 8px;
+ box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;"}
 
 :::::
 

@@ -1,0 +1,98 @@
+Roberto Licandeo
+Chilliwack, BC, Canada
+robertolicandeo@gmail.com
+6044014900
+www.linkedin.com/in/roberto-licandeo-0a0a353a
+________________________________________
+Professional Summary
+Data Analyst and Data Scientist with 10+ years of experience in predictive modeling, statistical analysis, and data-driven decision support across complex, data-rich environments. Proficient in R, Python, and SQL for exploratory data analysis, forecasting, and machine learning. Experienced in building dashboards and KPI frameworks (Power BI, ggplot2) to communicate insights to technical and non-technical stakeholders. Strong background in uncertainty quantification, scenario simulation, and Bayesian inference, with a proven ability to design reproducible analytical workflows and collaborate with cross-functional teams to drive data-informed strategy.________________________________________
+Programming & Analytics
+•	R (Expert): Statistical modeling, forecasting, Monte Carlo simulations, Bayesian analysis, advanced data manipulation, visualization (ggplot2).
+•	Python: pandas, NumPy, scikit-learn (basic-intermediate ML), data cleaning, exploratory analysis.
+•	SQL: Joins, aggregation, subqueries, window functions, analytical querying.
+Machine Learning & Statistical Modeling
+•	Predictive modeling (Lasso, Ridge, Elastic Net, GLM, GAM, multiple regression, Decision Trees)
+•	Time series forecasting (ARIMA, Multivariate Auto-Regressive State-Space models, Kalman Filter)
+•	Bayesian inference & uncertainty quantification
+•	Simulation modeling (Monte Carlo)
+•	Dimensionality reduction (PCA, k-Means Clustering)
+•	Causal inference: A/B tests, Instrumental Variables (2SLS), Propensity Score methods (IPTW), Marginal Structural Models (MSM)
+Data Management & Engineering Foundations
+•	Relational databases, ERD diagrams
+•	Data cleaning, validation, and quality control
+•	Merging multi-source structured datasets
+•	Reproducible workflows (RMarkdown, Quarto, Jupyter)
+•	ETL processes (Power Query, R/Python pipelines, Databricks SQL)
+Business Intelligence & Visualization
+•	Power BI (intermediate: dashboards, visuals, DAX fundamentals)
+•	Tableau (intermediate)
+•	KPI and performance metric design
+•	Advanced Excel (pivot tables, formulas, charts)
+•	Communicating insights through clear data stories
+Decision Analytics & Strategy
+•	Policy evaluation & risk modeling
+•	Scenario analysis for planning & resource allocation
+•	Stakeholder engagement and cross-functional collaboration
+•	Translating complex analytics into actionable business recommendations
+________________________________________
+
+PROFESSIONAL EXPERIENCE
+Data Scientist & Analytics Specialist Consultant | INPESCA | Jun 2024 – Feb 2026 
+• Executed SQL and Python queries on relational databases, performed data validation and hypothesis testing, and peer-reviewed statistical models for accuracy and reliability.
+• Built forecasting and predictive models to evaluate resource performance, quantify uncertainty, and support operational planning and risk reduction.
+• Developed R-based dashboards (ggplot2, RMarkdown) for key performance indicators (KPI), enabling cross-functional teams (25+ stakeholders) to visualize performance metrics and execute data-driven decisions.
+• Presented forecasts and risk scenarios to senior stakeholders, resulting in revision of current planning frameworks that reduced uncertainty and improved operational stability.
+Data Strategy Consultant | AOBAC | Sept 2025 - Oct 2025
+• Performed data wrangling, querying (SQL, Python, Power BI), cleaning, and validation on relational databases to prepare complex multi-source datasets for statistical modeling.
+• Designed stratified random sampling frameworks with power analysis and built R-based performance metric models to estimate key indicators at targeted precision (CV ≤12%), directly informing strategic planning and resource allocation for a $3M, 3-year program.
+• Collaborated with government and industry teams to validate statistical models and analytical methods, ensuring compliance with international data governance standards.
+• Designed and presented dashboards to a multinational organization (10+ member countries), enabling technical experts to assess sampling outcomes, and compliance with international management standards.
+Decision Analytics Consultant | CNP (Ecuador)| June 2025 - July 2025
+• Conducted multi-source data integration, data validation, and performed peer review of statistical models 
+• Developed and assessed key performance indicators (e.g., probability of failure, efficiency rates) to evaluate long-term policy performance and operational efficiency.
+• Delivered actionable analytical recommendations to industry and government stakeholders to support evidence-based policy design.
+Health Data Analytics Consultant | Independent contract | Mar 2024 – Jul 2024
+• Performed data wrangling, statistical imputation, and validation using Python (Pandas) to prepare complex health and academic datasets for modeling.
+• Applied PCA for dimensionality reduction to create composite health outcome scores, improving predictive accuracy by 18%.
+• Applied end-to-end machine learning pipeline in Python including Lasso, Ridge, Elastic Net, Gradient Boosting, feature importance analysis, and hyperparameter tuning to identify significant physiological predictors of academic health outcomes.
+• Developed statistically validated composite metrics supporting health program evaluation and informing policy and program design.
+Lead Data Analyst & Modeller | US Army Corps of Engineers | Oct 2020 - Sept 2024 
+• Integrated and validated multi-source datasets to build advanced assessment frameworks combining Maximum Likelihood and Bayesian modeling, supporting resource policy and planning under uncertainty.
+• Developed Monte Carlo forecasting models (AR(1)) to evaluate operational alternatives and predict long-term performance outcomes, directly informing investment and resource allocation decisions. 
+• Designed automated reporting pipelines in RMarkdown for stakeholder teams, ensuring reproducibility of analytical outputs to support data-driven decision-making.
+• Collaborated with multidisciplinary teams to translate complex analytics into clear, actionable recommendations for decision-making.
+• Presented analytical findings to managers and regulatory agencies, supporting data-driven decisions on large-scale infrastructure planning and resource management.
+Lead Data Analyst & Modeller | Fisheries and Oceans Canada | Jan 2017 – Mar 2019
+• Integrated and validated multi-source datasets to build clean, analysis-ready data pipelines for large-scale predictive modeling projects. 
+• Developed statistical models (Maximum Likelihood, Bayesian) to estimate key performance indicators and quantify uncertainty for strategic planning. 
+• Built scenario-based forecasting models to evaluate alternative strategies under uncertainty, directly informing long-term resource allocation and executive decision-making. 
+• Collaborated with cross-functional teams (operations, government agencies, industry) to align analytical outputs with strategic business objectives. 
+• Delivered executive-level analytical reports and dashboards translating complex modeling results into clear, actionable recommendations for senior decision-makers.
+________________________________________
+Data Analyst & Researcher | University of British Columbia | Jan 2013 – May 2020
+• Conducted exploratory data analysis (EDA) on large, complex multi-source datasets, identifying patterns, trends, and anomalies to inform analytical strategy and model development.
+• Developed multivariate state-space models (SSM) for time series decomposition, latent state estimation, and forecasting, applying Kalman filter and EM algorithm to extract reliable signals from noisy complex datasets.
+• Applied advanced statistical and machine learning methods (GLMs, hierarchical models, Monte Carlo simulation, hypothesis testing, regression) to build predictive models and support evidence-based decision-making.
+• Designed automated data pipelines and reproducible analytical workflows (R, RMarkdown) ensuring data quality, accuracy, and consistency across multi-year projects.
+• Developed data visualizations and analytical reports (ggplot2) translating complex statistical outputs into clear, actionable insights for technical and non-technical audiences. 
+• Supervised and mentored graduate and undergraduate students in statistical modeling, data analysis, and predictive analytics methodology; served as Teaching Assistant across quantitative and analytical courses.________________________________________
+Education
+Doctor of Philosophy (PhD) in Fisheries Science | University of British Columbia, Canada | 2020
+Focus: Predictive modeling and quantitative analytics, for decision-making under uncertainty.
+Master of Science in Fisheries Science | Universidad de Concepción, Chile | 2009
+Focus: Simulation and Quantitative Methods.
+Bachelor in Marine Biology | Universidad Austral de Chile | 2003
+Focus: Statistical Analysis
+________________________________________
+Certifications & Professional Development
+• Machine Learning with Python (LinkedIn Learning | 2025)
+• A Crash Course in Causality: Inferring Causal Effects from Observational Data | University of Pennsylvania (Coursera) | 2025
+• SQL for Data Science (University of California, Davis - Coursera | 2025)
+• Geospatial Analytics & GIS: Geospatial Raster Data Analytics in Python, Learning QGIS, Fundamentals of Remote Sensing (NASA ARSET | 2025)
+• IBM Data Analyst Professional Certificate (Coursera | 2025)
+•Power BI Data Analytics (LinkedIn Learning |2025)
+________________________________________
+Publications (25+ peer-reviewed publications demonstrating applied expertise in predictive modeling, time series forecasting, Bayesian inference, and decision analytics - available on Google Scholar)
+• Licandeo, R., et al. (2023). A delay-differential model for representing small pelagic fish stock dynamics and its application for assessing alternative management strategies under environmental uncertainty (Focus: Predictive modeling under uncertainty, stochastic optimization, trade-off objectives for policy alternatives) (link).
+• Licandeo, R., et al. (2020). Management strategies for spasmodic stocks: a Canadian Atlantic redfish fishery case study (Focus: Advanced simulation, predictive modeling, trade-off objectives for policy alternatives)(link).
+• Szuwalski, C.S., et al. (2019). Global forage fish recruitment dynamics: A comparison of methods, time-variation, and reverse causality (Focus: State-space models, time-series analysis, cohort analysis, causality assessment).

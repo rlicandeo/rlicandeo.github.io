@@ -3,11 +3,11 @@
 /* Import Bootstrap icons */
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
 
-/* Main styling */
+/* Main styling
 body {
   font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.6;
-}
+} */
 
 h1, h2, h3, h4 {
   color: #2c3e50;
@@ -59,4 +59,60 @@ a:hover {
   .img-fluid {
     margin-bottom: 1.5rem;
   }
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #1976d2 0%, #42a5f5 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(25, 118, 210, 0.3);
+  border: none;
+  font-weight: 500;
+}
+
+.btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(25, 118, 210, 0.5);
+  background: linear-gradient(135deg, #1565c0 0%, #1976d2 100%);
+}
+
+/* .hero {
+  background: linear-gradient(135deg, #e3f2fd 0%, #f8f9fa 100%);
+  padding: 1px 1px;
+  border-radius: 12px;
+  margin-bottom: 1px;
+  border: 1px solid #e0e0e0;
+} */
+
+
+.project-card:hover {
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+  transform: translateY(-8px) scale(1.02);
+  border-color: #1976d2;
+}
+
+.project-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(25, 118, 210, 0.1), transparent);
+  transition: left 0.5s;
+}
+
+.project-card:hover::before {
+  left: 100%
+}
+
+.project-card:hover {
+  box-shadow: 0 12px 24px rgba(0,0,0,0.12);
+  transform: translateY(-4px);
+}
+
+body {
+  font-family: 'Inter', 'Source Sans Pro', sans-serif;
 }

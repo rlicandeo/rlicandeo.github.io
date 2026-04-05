@@ -8,7 +8,7 @@ format:
 
 ### Apps
 
-::::::: {style="background: #F1EFE8; border: 0.5px solid #D3D1C7; border-radius: 12px; padding: 1rem; max-width: 380px; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem;"}
+::::::: {style="background: #F1EFE8; border: 0.5px solid #D3D1C7; border-radius: 12px; padding: 1rem; max-width: 380px; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem;" class="project-card"}
 ::: {style="font-size: 15px; font-weight: 500; color: #2C2C2A;"}
 BC Sockeye Stock Analysis
 :::
@@ -22,6 +22,28 @@ Ricker SR curves and marine survival residuals across 24 BC sockeye populations.
 [Python]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #E1F5EE; color: #085041; border: 0.5px solid #5DCAA5;"} [Dash]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #E1F5EE; color: #085041; border: 0.5px solid #5DCAA5;"}
 :::
 
-<a href="https://dash-sockeye.onrender.com/" target="_blank" style="font-size: 12px; font-family: monospace; color: #2C2C2A; text-decoration: none; font-weight: 500;">Launch app →</a>
+<a href="https://dash-sockeye.onrender.com/" target="_blank" class="btn-primary" style="font-size: 12px;
+ font-family: monospace; font-weight: 500;">Launch app →</a>
+::::
+:::::::
+
+
+
+::::::: {style="background: #F1EFE8; border: 0.5px solid #D3D1C7; border-radius: 12px; padding: 1rem; max-width: 380px; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem;" class="project-card"}
+::: {style="font-size: 15px; font-weight: 500; color: #2C2C2A;"}
+Stochastic Optimization in Policy Space (SOPS)
+:::
+
+::: {style="font-size: 13px; color: #5F5E5A; line-height: 1.5;"}
+Interactive tool for exploring harvest control rules or jack mackerel fisheries using (SOPS) techniques.
+:::
+
+:::: {style="display: flex; align-items: center; justify-content: space-between; margin-top: 4px;"}
+::: {style="display: flex; gap: 5px;"}
+[R]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #6594ec; color: #085041; border: 0.5px solid #5DCAA5;"} 
+[Shiny]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #6594ec; color: #085041; border: 0.5px solid #5DCAA5;"}
+:::
+
+<a href="https://quant-analytics.shinyapps.io/sops_app/" target="_blank" class="btn-primary" style="font-size: 12px; font-family: monospace; font-weight: 500;">Launch app →</a>
 ::::
 :::::::
