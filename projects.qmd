@@ -69,3 +69,27 @@ Hosted on Hugging Face. If the app has been idle it may take about a minute to w
 :::::
 
 :::
+
+### Dashboards
+
+::: {.project-grid}
+
+::::: {.project-card}
+::: {.card-title}
+Indigenous Education and Employment in Canada
+:::
+
+::: {.card-desc}
+Educational fields and employment outcomes among Indigenous populations across Canadian provinces. Highlights variation in major fields of study and key labour-force indicators.
+:::
+
+:::: {.card-footer}
+::: {.card-tags}
+[Tableau]{.tag}
+:::
+
+<a href="https://public.tableau.com/app/profile/roberto.licandeo/viz/FN_17549778644590/Dashboard1" target="_blank" class="btn-primary card-btn">Open dashboard →</a>
+::::
+:::::
+
+:::
