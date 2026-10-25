@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - projects.qmd
+    - about.qmd
   resources:
     - CNAME
 website:
@@ -11,12 +15,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - href: publications.qmd
-      #   text: Publications
       - href: projects.qmd
         text: Projects
-      # - href: cv.qmd
-      #   text: CV
     right:
       - icon: github
         href: https://github.com/rlicandeo
@@ -32,4 +32,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    page-layout: full
+    page-layout: full

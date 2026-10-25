@@ -8,42 +8,64 @@ format:
 
 ### Apps
 
-::::::: {style="background: #F1EFE8; border: 0.5px solid #D3D1C7; border-radius: 12px; padding: 1rem; max-width: 380px; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem;" class="project-card"}
-::: {style="font-size: 15px; font-weight: 500; color: #2C2C2A;"}
+::: {.project-grid}
+
+::::: {.project-card}
+::: {.card-title}
 BC Sockeye Stock Analysis
 :::
 
-::: {style="font-size: 13px; color: #5F5E5A; line-height: 1.5;"}
+::: {.card-desc}
 Ricker SR curves and marine survival residuals across 24 BC sockeye populations.
 :::
 
-:::: {style="display: flex; align-items: center; justify-content: space-between; margin-top: 4px;"}
-::: {style="display: flex; gap: 5px;"}
-[Python]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #E1F5EE; color: #085041; border: 0.5px solid #5DCAA5;"} [Dash]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #E1F5EE; color: #085041; border: 0.5px solid #5DCAA5;"}
+:::: {.card-footer}
+::: {.card-tags}
+[Python]{.tag} [Dash]{.tag}
 :::
 
-<a href="https://dash-sockeye.onrender.com/" target="_blank" class="btn-primary" style="font-size: 12px;
- font-family: monospace; font-weight: 500;">Launch app →</a>
+<a href="https://dash-sockeye.onrender.com/" target="_blank" class="btn-primary card-btn">Launch app →</a>
 ::::
-:::::::
+:::::
 
-
-
-::::::: {style="background: #F1EFE8; border: 0.5px solid #D3D1C7; border-radius: 12px; padding: 1rem; max-width: 380px; display: flex; flex-direction: column; gap: 8px; margin-top: 1rem;" class="project-card"}
-::: {style="font-size: 15px; font-weight: 500; color: #2C2C2A;"}
-Stochastic Optimization in Policy Space (SOPS)
+::::: {.project-card}
+::: {.card-title}
+Harvest Control Rules for Jack Mackerel using Stochastic Optimization in Policy Space
 :::
 
-::: {style="font-size: 13px; color: #5F5E5A; line-height: 1.5;"}
-Interactive tool for exploring harvest control rules or jack mackerel fisheries using (SOPS) techniques.
+::: {.card-desc}
+Interactive tool for exploring harvest control rules and management procedures for jack mackerel fisheries using stochastic optimization techniques.
 :::
 
-:::: {style="display: flex; align-items: center; justify-content: space-between; margin-top: 4px;"}
-::: {style="display: flex; gap: 5px;"}
-[R]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #6594ec; color: #085041; border: 0.5px solid #5DCAA5;"} 
-[Shiny]{style="font-size: 10px; font-family: monospace; padding: 3px 8px; border-radius: 4px; background: #6594ec; color: #085041; border: 0.5px solid #5DCAA5;"}
+:::: {.card-footer}
+::: {.card-tags}
+[R]{.tag} [Shiny]{.tag}
 :::
 
-<a href="https://quant-analytics.shinyapps.io/sops_app/" target="_blank" class="btn-primary" style="font-size: 12px; font-family: monospace; font-weight: 500;">Launch app →</a>
+<a href="https://quant-analytics.shinyapps.io/sops_app/" target="_blank" class="btn-primary card-btn">Launch app →</a>
 ::::
-:::::::
+:::::
+
+::::: {.project-card}
+::: {.card-title}
+Delay-Difference Stock Assessment Model
+:::
+
+::: {.card-desc}
+Fits a Deriso-Schnute delay-difference model with Beverton-Holt recruitment to catch and CPUE data. Uses JAX automatic differentiation for fast optimization and exact standard errors. Upload your own data or run the Patagonian toothfish example.
+:::
+
+::: {.card-note}
+Hosted on Hugging Face. If the app has been idle it may take about a minute to wake up.
+:::
+
+:::: {.card-footer}
+::: {.card-tags}
+[Python]{.tag} [JAX]{.tag} [Gradio]{.tag}
+:::
+
+<a href="https://huggingface.co/spaces/RhoL/DD" target="_blank" class="btn-primary card-btn">Launch app →</a>
+::::
+:::::
+
+:::

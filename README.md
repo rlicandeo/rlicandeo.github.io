@@ -17,7 +17,7 @@ rlicandeo.github.io/
 ├── styles.css           # Custom CSS styling
 ├── CNAME                # Custom domain configuration (for GitHub Pages)
 ├── cv.txt               # CV file
-├── world_cloud.ipynb    # Jupyter notebook (unused currently)
+├── world_cloud.ipynb    # Notebook that generates world_cloud.png (not rendered as a page)
 ├── images/              # Images folder (logo, photos)
 └── docs/                # OUTPUT FOLDER (compiled HTML site)
     ├── index.html
@@ -80,7 +80,7 @@ rlicandeo.github.io/
 ### 4. **Create Content Pages**
    - **index.qmd** — Home page with introduction and contact grid
    - **about.qmd** — About section with contact information and photos
-   - **projects.qmd** — Projects showcase (apps, research, etc.)
+   - **projects.qmd** — Projects showcase (Sockeye, SOPS and Delay-Difference apps)
 
 ### 5. **Add Custom Styling: `styles.css`**
    - Create custom CSS for your design preferences
@@ -144,9 +144,9 @@ rlicandeo.github.io/
 
 ## Notes
 
-- Commented-out sections in _quarto.yml (Publications, CV) are ready to uncomment when needed
-- The `world_cloud.ipynb` notebook isn't currently linked—consider adding it to Projects if you want to showcase it
-- Clean up commented content in `index.qmd` for a cleaner codebase
+- Only the pages listed under `project: render:` in _quarto.yml are built (index, projects, about)
+- Project cards on the Projects page use the `.project-card`, `.card-*` and `.tag` classes in `styles.css`. To add an app, copy one card block in `projects.qmd` and change the title, text, tags and link
+- `world_cloud.ipynb` generates `world_cloud.png` for the home page. It is not rendered as a page
 
 ---
 
