@@ -14,7 +14,6 @@ rlicandeo.github.io/
 ├── index.qmd            # Home page
 ├── about.qmd            # About/contact page
 ├── projects.qmd         # Projects page (Apps and Dashboards cards)
-├── CLAUDE.md            # Project notes for Claude (structure, conventions, workflow)
 ├── styles.css           # Custom CSS styling
 ├── CNAME                # Custom domain configuration (for GitHub Pages)
 ├── cv.txt               # CV file
@@ -161,7 +160,7 @@ rlicandeo.github.io/
 ### 2026-10-26
 - Added "Dashboards" section to Projects with the Tableau dashboard
   "Indigenous Education and Employment in Canada".
-- Added CLAUDE.md and this change log.
+- Added this change log. Added a local CLAUDE.md (git-ignored, not published).
 
 ### 2026-10-25
 - Added the Delay-Difference Stock Assessment Model app (Hugging Face, Python/JAX/Gradio)
