@@ -13,7 +13,8 @@ rlicandeo.github.io/
 ├── _quarto.yml          # Quarto configuration file (site settings, navbar, theme)
 ├── index.qmd            # Home page
 ├── about.qmd            # About/contact page
-├── projects.qmd         # Projects showcase page
+├── projects.qmd         # Projects page (Apps and Dashboards cards)
+├── CLAUDE.md            # Project notes for Claude (structure, conventions, workflow)
 ├── styles.css           # Custom CSS styling
 ├── CNAME                # Custom domain configuration (for GitHub Pages)
 ├── cv.txt               # CV file
@@ -154,3 +155,29 @@ rlicandeo.github.io/
 - Quarto Documentation: https://quarto.org
 - GitHub Pages: https://pages.github.com
 - Quarto Website Guide: https://quarto.org/docs/websites/
+
+## Change log
+
+### 2026-10-26
+- Added "Dashboards" section to Projects with the Tableau dashboard
+  "Indigenous Education and Employment in Canada".
+- Added CLAUDE.md and this change log.
+
+### 2026-10-25
+- Added the Delay-Difference Stock Assessment Model app (Hugging Face, Python/JAX/Gradio)
+  to Projects and to "My Apps" on the home page, with a note that the Space may take
+  about a minute to wake up.
+- Merged `projects_new.qmd` into `projects.qmd` (kept the fuller SOPS title and description,
+  unified tag colours) and deleted `projects_new.qmd`.
+- Moved card styles from inline HTML to CSS classes in `styles.css`
+  (`.project-grid`, `.project-card`, `.card-title`, `.card-desc`, `.card-note`,
+  `.card-footer`, `.card-tags`, `.tag`, `.card-btn`, `.app-link`).
+- Fixed card hover shine effect (it crossed the whole page) and removed duplicate CSS rules.
+- Moved "My Apps" into the main column of the home page, with buttons for all apps.
+- Removed the old commented-out block at the top of `index.qmd`.
+- Updated location from Chilliwack to Prince George, BC (index and about).
+- `_quarto.yml` now renders only index, projects and about. Removed commented navbar items.
+- Deleted unused files: `docs/projects_new.html`, `docs/world_cloud.html`,
+  `docs/world_cloud_files/`, `images/Rho_fly.jpeg`,
+  `mohamed_hassan-silhouette-3113255_1280.png`, `.Rhistory`.
+- Added `.Rhistory` to `.gitignore`.
